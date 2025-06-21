@@ -72,10 +72,11 @@ python main.py
 
 ## Roadmap
 
-- [x] **CLI App** – Terminal-based interface for generating and checking temp emails  
-- [ ] **Discord Bot** – Generate and monitor temp emails from within Discord
-- [ ] **Dockerized Flask API** – REST API wrapper for the core features  
-- [ ] **Telegram Bot** – Chat-based temp mail experience via Telegram
+- [x] **CLI App** – Fully functional terminal interface to generate and monitor temp emails in real-time
+- [ ] Bot Integrations
+   - [ ] **Discord Bot** – Interact with temp mail features using bot commands or DMs
+   - [ ] **Telegram Bot** – Lightweight access via chat interface, ideal for mobile usage
+- [ ] **PyPI Package** - Publish as a pip-installable package (tempmail-cli) for simpler installation and updates
 
 ---
 
