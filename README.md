@@ -29,7 +29,7 @@ It’s built for anyone who values privacy or needs to quickly generate temp ema
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/anonymousxempt/tempmail-cli.git
+   git clone https://github.com/AnonymousXempt/TempMail-CLI.git
    ```
 
 2. **Navigate into the project directory**
