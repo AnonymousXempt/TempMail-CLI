@@ -74,7 +74,7 @@ python main.py
 
 - [x] **CLI App** – Fully functional terminal interface to generate and monitor temp emails in real-time
 - [ ] Bot Integrations
-   - [ ] **Discord Bot** – Interact with temp mail features using bot commands or DMs
+   - [ ] **Discord Bot** – Interact with temp mail features using bot commands or DMs [(Goto)](https://github.com/AnonymousXempt/TempMail-Discord)
    - [ ] **Telegram Bot** – Lightweight access via chat interface, ideal for mobile usage
 - [ ] **PyPI Package** - Publish as a pip-installable package (tempmail-cli) for simpler installation and updates
 
